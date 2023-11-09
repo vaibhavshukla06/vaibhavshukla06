@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://vaibhavshukla06.io)
+[![MasterHead](https://camo.githubusercontent.com/57d6b34f9feb89c6b5a38546324bfb6858ca7d05b59ab133ee195afd21177cec/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e363430623630333864313333652e676966)](https://vaibhavshukla06.io)
 <h1 align="center">Hi 👋, I'm Vaibhav Shukla</h1>
 <h3 align="center">Passionate computer science student at Kanyapur Polytechnic college with a strong interest in Cybersecurity, machine learning and blockchain technology. Ready to create impactful code together!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
