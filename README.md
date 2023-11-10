@@ -11,11 +11,11 @@
 
 - 💬 Ask me about **Anything, and I'll help you, even if I don't know it.**
 
-- 📫 How to reach me **vaibhavshukla6324@gmail.com**
+- 📫 Reach me at **vaibhavshukla6324@gmail.com**
 
 - 📄 Know about my experiences [https://t.ly/v5TNb](https://t.ly/v5TNb)
 
-- ⚡ Fun fact **I think I am funny and I bring humor and a willingness to learn to the table**
+- ⚡ Fun fact *"Why do programmers prefer dark mode? Because light attracts bugs!😂🐱‍🚀"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
