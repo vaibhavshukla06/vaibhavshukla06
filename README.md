@@ -3,19 +3,34 @@
 <h3 align="center">I'm a 16-year-old CS Student based in India, and I'm passionate about crafting efficient and elegant solutions to real-world challenges.</h3>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **RPG Game**
+- Check out my [website](https://www.miraya.tech/) to learn more about me.
 
-- 🌱 I’m currently learning **OpenCV**
+- Currently working on **RPG Game** 
+
+- Currently learning **OpenCV**
 
 - 💬 Ask me about **Anything, and I'll help you, even if I don't know it.**
 
 - 📫 Reach me at **vaibhavshukla6324@gmail.com**
 
-- 📄 Know about my experiences [https://t.ly/v5TNb](https://t.ly/v5TNb)
-
 - ⚡ Fun fact *"Why do programmers prefer dark mode? Because light attracts bugs!😂🐱‍🚀"**
+ 
+## 📦 Toolbox
 
-<h3 align="left">Connect with me:</h3>
+**Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Material-UI` `Framer-Motion`
+ 
+**Version Control:** `Git` `GitLab` `Bitbucket`
+
+**Backend Development:** `Nest.js` `GraphQL` `Firebase` 
+
+**Testing:** `Cypress` `Playwright` `Vitest` `Postman` `Insomnia`
+
+**Others:** `Storybook` `Zustand` `A11y` `Scrum` `Confluence` `Jira`
+
+## 📫 Contact
+
+ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/vaibhavshukla06/). 
+ 
 <p align="left">
 <a href="https://twitter.com/shuklavaib78924" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shuklavaib78924" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vaibhavshukla06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhavshukla06" height="30" width="40" /></a>
