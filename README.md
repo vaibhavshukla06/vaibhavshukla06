@@ -1,4 +1,3 @@
-[![MasterHead](https://camo.githubusercontent.com/57d6b34f9feb89c6b5a38546324bfb6858ca7d05b59ab133ee195afd21177cec/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e363430623630333864313333652e676966)](https://vaibhavshukla06.io)
 <h1 align="center">Hi 👋, I'm Vaibhav </h1>
 <h3 align="center">I'm a 16-year-old CS Student based in India, and I'm passionate about crafting efficient and elegant solutions to real-world challenges.</h3>
 
