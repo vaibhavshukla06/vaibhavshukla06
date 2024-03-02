@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav </h1>
 <h3 align="center">I'm a 16-year-old CS Student based in India, and I'm passionate about crafting efficient and elegant solutions to real-world challenges.</h3>
 
-- Check out my [website](([https://bento.me/vaibhavshukla])) to learn more about me.
+- Check out my [website](https://bento.me/vaibhavshukla) to learn more about me.
 
 - Currently working on **RPG Game** 
 
