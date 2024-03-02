@@ -10,7 +10,7 @@
 
 - Reach me at **vaibhavshukla6324@gmail.com**
 
-- ⚡ Fun fact **Why do programmers prefer dark mode? Because light attracts bugs!😂🐱‍🚀**
+- ⚡ Fun fact **Why do programmers prefer dark mode? Because light attracts bugs! 😂**
  
 ## 📦 Toolbox
 
