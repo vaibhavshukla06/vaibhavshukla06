@@ -8,23 +8,21 @@
 
 - Currently learning **OpenCV**
 
-- 💬 Ask me about **Anything, and I'll help you, even if I don't know it.**
-
-- 📫 Reach me at **vaibhavshukla6324@gmail.com**
+- Reach me at **vaibhavshukla6324@gmail.com**
 
 - ⚡ Fun fact *"Why do programmers prefer dark mode? Because light attracts bugs!😂🐱‍🚀"**
  
 ## 📦 Toolbox
 
-**Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Material-UI` `Framer-Motion`
- 
-**Version Control:** `Git` `GitLab` `Bitbucket`
+**Programming Languages:** `C/C++` `Python`
 
-**Backend Development:** `Nest.js` `GraphQL` `Firebase` 
+**Frontend Development:** `Html` `CSS` `JavaScript` `React` `Tailwind`
 
-**Testing:** `Cypress` `Playwright` `Vitest` `Postman` `Insomnia`
+**Version Control:** `Git` `GitLab` `GitHub`
 
-**Others:** `Storybook` `Zustand` `A11y` `Scrum` `Confluence` `Jira`
+**Frameworks:** `OpenAI` `OpenCV`
+
+**Testing:** `Vitest` `Postman`
 
 ## 📫 Contact
 
