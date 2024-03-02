@@ -3,7 +3,7 @@
 
 - Check out my [website](https://bento.me/vaibhavshukla) to learn more about me.
 
-- Currently working on **RPG Game** 
+- Currently working on **Weather App** 
 
 - Currently learning **OpenCV**
 
