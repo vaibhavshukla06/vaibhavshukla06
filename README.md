@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on ****
 
-- 👨‍💻 All of my projects are available at [https://bento.me/vaibhavshukla](https://ogvaibhavshukla.netlify.app/)
+- 👨‍💻 All of my projects are available at [ogvaibhavshukla](https://ogvaibhavshukla.netlify.app/)
 
 - 📫 How to reach me **vaihavshukla4466@gmail.com**
 
